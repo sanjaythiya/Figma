@@ -31,8 +31,56 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## OUTPUT:
+```
+/* home page */
 
+position: relative;
+width: 360px;
+height: 640px;
+
+background: #FF0202;
+
+
+/* SEC page */
+
+position: relative;
+width: 362px;
+height: 712px;
+
+background: #F90AE1;
+
+
+/* saveetha 3 */
+
+position: absolute;
+width: 225px;
+height: 224px;
+
+background: url(saveetha.jpg);
+
+
+/* saveetha 4 */
+
+position: absolute;
+width: 225px;
+height: 224px;
+
+background: url(saveetha.jpg);
+
+
+/* login page */
+
+position: relative;
+width: 374px;
+height: 699px;
+
+background: #FAFF06;
+```
+
+## OUTPUT:
+![OUTPUT](./out1.png)
+![OUTPUT](./out2.png)
+![OUTPUT](./out3.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
